@@ -1,0 +1,663 @@
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+12710
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
+Unable to render text surface! SDL_ttf Error: Text has zero width
+Failed to render text texture!
