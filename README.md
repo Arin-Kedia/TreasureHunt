@@ -8,16 +8,17 @@ Broadly the game is a tile based game where the player moves in a grdi like stru
 **Libraries Used and their Installation Process**
 
 1) SDL2 -> The SDL2 library was installed using homebrew on the OSX operating system
-2)SDL2_image ->The SDL2_image library was installed using homebrew on the OSX operating system
-3)SDL2_mixer ->The SDL2_image library was installed using homebrew on the OSX operating system
-4)SDL2_ttf ->The SDL2_image library was installed using homebrew on the OSX operating system
+2) SDL2_image ->The SDL2_image library was installed using homebrew on the OSX operating system
+3) SDL2_mixer ->The SDL2_image library was installed using homebrew on the OSX operating system
+4) SDL2_ttf ->The SDL2_image library was installed using homebrew on the OSX operating system
 
 **Other Online Resources Used**
 
-Lazyfoo for learning SDL https://lazyfoo.net/tutorials/SDL/index.php
-Maze Generation Wikipaedia https://en.wikipedia.org/wiki/User:Dllu/Maze
-IIT Delhi map https://home.iitd.ac.in/for-faculty-around-campus-campus-map.php
-IIT Delhi main building image https://home.iitd.ac.in
+1) Lazyfoo for learning SDL https://lazyfoo.net/tutorials/SDL/index.php
+2) Maze Generation Wikipaedia https://en.wikipedia.org/wiki/User:Dllu/Maze
+3) IIT Delhi map https://home.iitd.ac.in/for-faculty-around-campus-campus-map.php
+4) IIT Delhi main building image https://home.iitd.ac.in
+
 Game music
 1) https://youtu.be/Q7HjxOAU5Kc
 2) https://youtu.be/BxYzjjs6d1s
